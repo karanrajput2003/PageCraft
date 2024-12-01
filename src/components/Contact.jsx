@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import AnimatedTitle from './AnimatedTitle';
 import Button from './Button';
-import axios from 'axios';
 
 const ImageClipBox = ({ src, clipClass }) => (
   <div className={clipClass}>
