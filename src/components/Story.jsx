@@ -96,12 +96,12 @@ const FloatingImage = () => {
     <div id="story" className="min-h-dvh w-screen bg-black text-blue-50">
       <div className="flex size-full flex-col items-center py-10 pb-24 px-4 sm:px-6 lg:px-8">
         <p className="font-general text-sm uppercase md:text-[10px] text-center">
-          the multiversal ip world
+          FAQs
         </p>
 
         <div className="relative w-full max-w-4xl mx-auto">
           <AnimatedTitle
-            title="the st<b>o</b>ry of <br /> a hidden real<b>m</b>"
+            title="fr<b>e</b>quently a<b>s</b>ked <br /> q<b>u</b>esti<b>o</b>ns"
             containerClass="mt-5 pointer-events-none mix-blend-difference relative z-10 text-center"
           />
 
