@@ -160,6 +160,9 @@ const Features = () => {
           ))}
         </div>
       </div>
+      <p className="font-general text-sm uppercase md:text-[10px] text-center">
+          Features
+        </p>
       <div className="container mx-auto px-3 md:px-10">
         <div className="px-5 py-32">
               <AnimatedTitle
